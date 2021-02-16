@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="26" passed="26" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-15T14:50:37 EST" name="Default suite" finished-at="2021-02-15T14:50:54 EST" duration-ms="17011">
+    <groups>
+    </groups>
+    <test started-at="2021-02-15T14:50:37 EST" name="Default test" finished-at="2021-02-15T14:50:54 EST" duration-ms="17011">
+      <class name="com.apitest.SouthAsia">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.SouthAsia@654f0d9c]" started-at="2021-02-15T14:50:37 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:39 EST" duration-ms="2292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.SouthAsia -->
+      <class name="com.apitest.Badda">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.Badda@6a400542]" started-at="2021-02-15T14:50:39 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:41 EST" duration-ms="1542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.Badda -->
+      <class name="com.apitest.Swan_Dilara">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.Swan_Dilara@7e0b85f9]" started-at="2021-02-15T14:50:41 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:43 EST" duration-ms="1440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.Swan_Dilara -->
+      <class name="com.apitest.BDDL_ReazBag">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.BDDL_ReazBag@6580cfdd]" started-at="2021-02-15T14:50:41 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:41 EST" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.BDDL_ReazBag -->
+      <class name="com.apitest.JanataHousing">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.JanataHousing@63355449]" started-at="2021-02-15T14:50:43 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:43 EST" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.JanataHousing -->
+      <class name="com.apitest.ReadyApartment">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.ReadyApartment@9353778]" started-at="2021-02-15T14:50:43 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:44 EST" duration-ms="450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.ReadyApartment -->
+      <class name="com.apitest.Commercial">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.Commercial@6a28ffa4]" started-at="2021-02-15T14:50:44 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:44 EST" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.Commercial -->
+      <class name="com.apitest.ArshiNagor">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.ArshiNagor@48ae9b55]" started-at="2021-02-15T14:50:44 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:44 EST" duration-ms="356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.ArshiNagor -->
+      <class name="com.apitest.Triplex_House">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.Triplex_House@1700915]" started-at="2021-02-15T14:50:44 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:45 EST" duration-ms="444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.Triplex_House -->
+      <class name="com.apitest.Swan_Rajia">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.Swan_Rajia@21de60b4]" started-at="2021-02-15T14:50:45 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:45 EST" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.Swan_Rajia -->
+      <class name="com.apitest.Alif">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.Alif@c267ef4]" started-at="2021-02-15T14:50:45 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:46 EST" duration-ms="641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.Alif -->
+      <class name="com.apitest.BananiLake">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.BananiLake@30ee2816]" started-at="2021-02-15T14:50:46 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:46 EST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.BananiLake -->
+      <class name="com.apitest.BDDL_SUFIA">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.BDDL_SUFIA@635eaaf1]" started-at="2021-02-15T14:50:48 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:48 EST" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.BDDL_SUFIA -->
+      <class name="com.apitest.Post_Request">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.Post_Request@31d7b7bf]" started-at="2021-02-15T14:50:46 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:48 EST" duration-ms="1533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.Post_Request -->
+      <class name="com.apitest.Rossella">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.Rossella@5c30a9b0]" started-at="2021-02-15T14:50:48 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:49 EST" duration-ms="668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.Rossella -->
+      <class name="com.apitest.Dreamway">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.Dreamway@1ddf84b8]" started-at="2021-02-15T14:50:49 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:49 EST" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.Dreamway -->
+      <class name="com.apitest.QueenHaque">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.QueenHaque@1139b2f3]" started-at="2021-02-15T14:50:49 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:50 EST" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.QueenHaque -->
+      <class name="com.apitest.Swan_Mostofa">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.Swan_Mostofa@7a69b07]" started-at="2021-02-15T14:50:50 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:50 EST" duration-ms="355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.Swan_Mostofa -->
+      <class name="com.apitest.BDDL_GoldPlace">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.BDDL_GoldPlace@5e82df6a]" started-at="2021-02-15T14:50:50 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:50 EST" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.BDDL_GoldPlace -->
+      <class name="com.apitest.BDDL_Lily">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.BDDL_Lily@3f197a46]" started-at="2021-02-15T14:50:50 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:51 EST" duration-ms="848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.BDDL_Lily -->
+      <class name="com.apitest.Get_Request">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.Get_Request@636be97c]" started-at="2021-02-15T14:50:51 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:52 EST" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.Get_Request -->
+      <class name="com.apitest.Max_Adn">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.Max_Adn@50a638b5]" started-at="2021-02-15T14:50:52 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:52 EST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.Max_Adn -->
+      <class name="com.apitest.ThreeBed">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.ThreeBed@1817d444]" started-at="2021-02-15T14:50:52 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:52 EST" duration-ms="356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.ThreeBed -->
+      <class name="com.apitest.Eldorado">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.Eldorado@6ca8564a]" started-at="2021-02-15T14:50:52 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:53 EST" duration-ms="498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.Eldorado -->
+      <class name="com.apitest.NortBreeze">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.NortBreeze@50b472aa]" started-at="2021-02-15T14:50:53 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:53 EST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.NortBreeze -->
+      <class name="com.apitest.Al_Kaif">
+        <test-method signature="getweatherDetails()[pri:0, instance:com.apitest.Al_Kaif@31368b99]" started-at="2021-02-15T14:50:53 EST" name="getweatherDetails" finished-at="2021-02-15T14:50:54 EST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getweatherDetails -->
+      </class> <!-- com.apitest.Al_Kaif -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
